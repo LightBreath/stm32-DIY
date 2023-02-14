@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "type_traits": "c",
+        "xtr1common": "c"
+    }
+}
